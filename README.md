@@ -1,6 +1,7 @@
 # Hotstar
 ![Screenshot 2024-04-21 154743](https://github.com/cisojoker/Hotstar/assets/103921455/c4bc5b85-9f9f-47c1-a22c-73352185b347)
-![Uploading Screenshot 2024-04-21 154709.png…]()
+![Screenshot 2024-04-21 154709](https://github.com/cisojoker/Hotstar/assets/103921455/54927c14-9515-4dc7-bc2b-d3b30cacafaa)
+
 
 This is a frontend clone of the Disney website built using HTML and CSS.
 
